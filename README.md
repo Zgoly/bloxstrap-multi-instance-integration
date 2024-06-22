@@ -1,5 +1,5 @@
 # 🎮 Bloxstrap Multi-instance Integration 🎮
-Unleash the power of multiple instances with this fantastic integration for [Bloxstrap](https://github.com/pizzaboxer/bloxstrap)! Say goodbye to limitations and hello to a world where you can use different Roblox accounts simultaneously. 🎉
+Unleash the power of multiple instances with this fantastic integration for [Bloxstrap](https://github.com/pizzaboxer/bloxstrap)! After the [recent update](https://github.com/pizzaboxer/bloxstrap/releases/tag/v2.6.0) that [removed the ability to use multiple instances](https://github.com/pizzaboxer/bloxstrap/wiki/Plans-to-remove-multi%E2%80%90instance-launching-from-Bloxstrap) of Roblox, this integration brings back that functionality. 🎉
 
 ## 🔧 Installation
 1. Grab the [latest source code](https://github.com/Zgoly/bloxstrap-multi-instance-integration/archive/refs/heads/main.zip)
