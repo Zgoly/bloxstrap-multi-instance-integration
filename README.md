@@ -1,10 +1,15 @@
+> [!IMPORTANT]
+> # This project is now archived and no longer maintained.
+> 
+> [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap) has reintroduced native support for launching multiple Roblox instances starting from version `2.9.0`. Update [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap) and enable the `Allow multi-instance launching` option in the settings.
+
 > [!WARNING]
 > ### After one of the Bloxstrap updates, this integration stopped working.
 > 
 > ## [A new solution is highly recommended - MultiBloxy](https://github.com/Zgoly/MultiBloxy)
 
 # 🎮 Bloxstrap Multi-instance Integration 🎮
-Unleash the power of multiple instances with this fantastic integration for [Bloxstrap](https://github.com/pizzaboxer/bloxstrap)! After the [recent update](https://github.com/pizzaboxer/bloxstrap/releases/tag/v2.6.0) that [removed the ability to use multiple instances](https://github.com/pizzaboxer/bloxstrap/wiki/Plans-to-remove-multi%E2%80%90instance-launching-from-Bloxstrap) of Roblox, this integration brings back that functionality. 🎉
+Unleash the power of multiple instances with this fantastic integration for [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap)! After the [recent update](https://github.com/bloxstraplabs/bloxstrap/releases/tag/v2.6.0) that [removed the ability to use multiple instances](https://github.com/bloxstraplabs/bloxstrap/wiki/Plans-to-remove-multi%E2%80%90instance-launching-from-Bloxstrap) of Roblox, this integration brings back that functionality. 🎉
 
 <img src="https://raw.githubusercontent.com/Zgoly/hosts/main/bloxstrap-multi-instance-integration_banner.png"/>
 
